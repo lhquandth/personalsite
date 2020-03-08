@@ -1,0 +1,19 @@
+body {
+  background-color: #ffffdd;
+  align-content: center;
+}
+
+hr {
+  border-style: dotted;
+  border-top: none;
+  width: 10%;
+  border-width: 5px;
+  align: center;
+  border-color: powderblue;
+}
+h3 {
+  color: powderblue;
+}
+h1 {
+  color: powderblue;
+}
